@@ -1,3 +1,32 @@
+body {
+
+    background-color:#2B5B85;
+
+}
+
 h2 {
+
     font-family: 'Roboto', sans-serif;
+    color:#f8f8f8;
+    background-color: #1E3F5C;
+    padding-left: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 1ch;
+    font-size: 50px;
+
+}
+
+.python{
+
+    padding-left: 1400px;
+    padding-top: 100px;
+
+}
+
+.caixa {
+
+    padding-left: 30px;
+    padding-right: 10px;
+
 }
