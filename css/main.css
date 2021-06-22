@@ -1,4 +1,12 @@
-body {
+#conteiner{
+    background-color: red;
+    width: 100px;
+    height: 100px;
+}
+
+
+
+/*body {
 
     background-color:#2B5B85;
 
@@ -29,4 +37,4 @@ h2 {
     padding-left: 30px;
     padding-right: 10px;
 
-}
+}*/
