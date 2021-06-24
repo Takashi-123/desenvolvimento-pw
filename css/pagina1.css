@@ -74,7 +74,7 @@ p{
 
     position: absolute;
     top: 430px;
-    left: 960px;
+    left: 870px;
     background-color: #ffce3d;
     border: none;
     color: rgb(255, 255, 255);
@@ -101,3 +101,9 @@ p{
     border-radius: 10px;
 
   }
+button{
+
+  background-color:#ffce3d;
+  border-color: #ffce3d;
+  
+}

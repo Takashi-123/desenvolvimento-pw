@@ -97,3 +97,10 @@ h1{
     width: 631px;
     height: 294px;
   }
+
+  button{
+
+    background-color:#ffce3d;
+    border-color: #ffce3d;
+    
+  }

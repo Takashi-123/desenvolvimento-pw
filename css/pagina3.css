@@ -59,8 +59,8 @@ h1{
 
   .prox{
     position: absolute;
-    top: 360px;
-    left: 761px;
+    top: 320px;
+    left: 720px;
     background-color: #ffce3d;
     border: none;
     color: rgb(255, 255, 255);
@@ -75,8 +75,8 @@ h1{
   .ant{
 
     position: absolute;
-    top: 360px;
-    left: 60px;
+    top: 320px;
+    left: 80px;
     background-color: #ffce3d;
     border: none;
     color: rgb(255, 255, 255);
@@ -110,4 +110,11 @@ h1{
     top: 399px;
     width: 631px;
     height: 432px;
+  }
+
+  button{
+
+    background-color:#ffce3d;
+    border-color: #ffce3d;
+    
   }
