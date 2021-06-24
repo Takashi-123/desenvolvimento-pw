@@ -76,9 +76,24 @@ h1{
 
   
   a {
-
+    color: #000;
     font-size: 20px;
-    color: white;
     font-family: 'Roboto', sans-serif;
 
+  }
+
+  .print7 img{
+    position: absolute;
+    right: 48px;
+    top: 131px;
+    width: 637px;
+    height: 365px;
+  }
+
+  .print8 img{
+    position: absolute;
+    right: 57px;
+    top: 494px;
+    width: 631px;
+    height: 294px;
   }

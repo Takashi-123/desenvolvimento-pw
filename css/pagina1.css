@@ -64,9 +64,8 @@ p{
   }
 
   a {
-
+    color: #000;
     font-size: 20px;
-    color: white;
     font-family: 'Roboto', sans-serif;
 
   }

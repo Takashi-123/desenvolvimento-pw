@@ -37,17 +37,17 @@ h1{
 
 .texto{
 
-    color: rgb(0, 0, 0);
-    background-color: white;
-    border: solid;
-    border-color: #ffce3d;
-    border-radius: 1ch;
-    font-size: 18px;
-    margin-left: 30px;
-    margin-top: 120px;
-    margin-right: 800px;
-    padding-right: 30px;
-    border-width: 5px;
+  color: rgb(0, 0, 0);
+  background-color: white;
+  border: solid;
+  border-color: #ffce3d;
+  border-radius: 1ch;
+  font-size: 18px;
+  margin-left: 30px;
+  margin-top: 57px;
+  margin-right: 915px;
+  padding-right: 30px;
+  border-width: 5px;
 
   }
 
@@ -58,10 +58,9 @@ h1{
   }
 
   .prox{
-
     position: absolute;
     top: 360px;
-    left: 910px;
+    left: 761px;
     background-color: #ffce3d;
     border: none;
     color: rgb(255, 255, 255);
@@ -69,7 +68,7 @@ h1{
     text-decoration: none;
     margin: 4px 2px;
     cursor: pointer;
-    border-radius: 10px;    
+    border-radius: 10px;
 
   }
 
@@ -90,9 +89,25 @@ h1{
   }
 
   a {
-
+    color: #000;
     font-size: 20px;
-    color: white;
     font-family: 'Roboto', sans-serif;
 
+  }
+
+  .print3 img{
+    position: absolute;
+    right: 174px;
+    top: 131px;
+    width: 524px;
+    height: 260px;
+    
+  }
+
+  .print4 img{
+    position: absolute;
+    right: 138px;
+    top: 399px;
+    width: 631px;
+    height: 432px;
   }
